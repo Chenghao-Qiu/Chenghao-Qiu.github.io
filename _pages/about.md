@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I'm Chenghao Qiu, currently an undergraduate student in Computer Science and Technology at the [School of Future Technology](qiushi.tju.edu.cn), [Tianjin University](https://www.tju.edu.cn/). You can access my email and GitHub through the sidebar on the left. Feel free to click on the top menu or here to view my CV.
+Welcome to my website! I'm Chenghao Qiu, currently an undergraduate student in Computer Science at the [School of Future Technology](qiushi.tju.edu.cn), [Tianjin University](https://www.tju.edu.cn/). You can access my Email and [GitHub](https://github.com/Chenghao-Qiu) through the sidebar on the left. 
+Feel free to click on the top menu or [here](https://chenghao-qiu.github.io/cv/) to view my CV.
 
 Research
 ======
