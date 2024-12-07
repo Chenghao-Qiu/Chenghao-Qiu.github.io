@@ -16,7 +16,9 @@ Research
 My current research mainly focuses on the ML and NLP in the biological field, particularly in DNA and proteins.
 (I am truly passionate about trying new things and actively exploring all the interesting research in machine learning. I believe that research should not be confined to a specific field, and I am dedicated to applying deep learning technologies to real-life situations to change the world.)
 
-Since April 2024, I have been honored to intern at the [MAGICS Lab](https://magics.cs.northwestern.edu/) of Northwestern University under the guidance of Professor [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html).  During this period, I have had the privilege of collaborating with [Robin Luo](https://hluo76.github.io/robin.github.io/), [Jerry Hu](https://northwestern.jerryhu.page/), and [Zhihan Zhou](https://zhihan1996.github.io/).
+Since April 2024, I have been honored to intern at the [MAGICS Lab](https://magics.cs.northwestern.edu/) of Northwestern University under the guidance of Professor [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html).  
+
+<!-- During this period, I have had the privilege of collaborating with [Robin Luo](https://hluo76.github.io/robin.github.io/), [Jerry Hu](https://northwestern.jerryhu.page/), and [Zhihan Zhou](https://zhihan1996.github.io/). -->
 
 I am <span style="color: red;">actively applying for PhD programs in CS and ML for the Fall 2025</span>.
 
