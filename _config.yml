@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chenghao Qiu / 邱成浩"
+title                    : "Chenghao Qiu / Home"
 title_separator          : "-"
 name                     : &name "Chenghao Qiu"
 description              : &description "Computer Science and Technology"
@@ -22,13 +22,13 @@ repository               : "Chenghao-Qiu/Chenghao-Qiu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chenghao Qiu"
+  name             : "Chenghao Qiu, 邱成浩"
   pronouns         : "he/his"  
   bio              : "Bachelor student in Tianjin University"
   location         : "China"
   employer         : "Tianjin University"
   uri              : # URL
-  email            : "qiuchenghao2003@163.com" 
+  email            : "qiuchenghao2003@outlook.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
