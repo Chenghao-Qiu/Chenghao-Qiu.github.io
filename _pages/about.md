@@ -15,6 +15,12 @@ Research
 ======
 My current research mainly focuses on the ML and NLP in the biological field, particularly in DNA and proteins.
 
+News
+======
+<p style="font-size:12px; font-family:Georgia, serif;">
+  One paper accepted by ICML 2025! 🎉 Many thanks to all my co-authors!
+</p>
+
 
 
 <!-- A data-driven personal website
