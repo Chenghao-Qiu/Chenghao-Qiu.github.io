@@ -19,12 +19,12 @@ News
 ======
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
   <p style="font-size:14px; font-family:Georgia, serif;">
-    <span style="color: #; font-weight: bold;">May 1, 2025 -</span> 
-    Our paper "GERM" has been accepted to ICML 2025! 🎉 Many thanks to all my co-authors.
+    <span style="color: #; font-weight: bold;">May, 2025 -</span> 
+    Our paper "GERM" accepted by ICML 2025! 🎉 Many thanks to all my co-authors.
     <em>(Co-first author)</em>
-    <a href="https://arxiv.org/abs/2505.00598 " target="_blank">arXiv</a>;
-    <a href="https://github.com/MAGICS-LAB/GERM" target="_blank">Github</a>;
-    <a href="https://huggingface.co/collections/magicslabnu/germ-67f5e49e710956423d549e9b" target="_blank">HuggingFace</a>
+    <a href="https://arxiv.org/abs/2505.00598" target="_blank">arXiv</a>
+    <!-- <a href="https://github.com/MAGICS-LAB/GERM" target="_blank">Github</a>;
+    <a href="https://huggingface.co/collections/magicslabnu/germ-67f5e49e710956423d549e9b" target="_blank">HuggingFace</a> -->
   </p>
   <!-- 添加更多新闻条目 -->
   <!-- <p style="font-size:14px; font-family:Georgia, serif;">
