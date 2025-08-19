@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I'm Chenghao Qiu, currently an BSCS at the [School of Future Technology](https://qiushi.tju.edu.cn), [Tianjin University](https://www.tju.edu.cn/). Incoming PhD student in [Computer Science and Engineering](https://engineering.tamu.edu/cse) at [Texas A&M University](https://www.tamu.edu), Fall 2025.
+Welcome! I'm a PhD student in [Computer Science and Engineering](https://engineering.tamu.edu/cse) at [Texas A&M University](https://www.tamu.edu), advised by [Yi Zhou](https://engineering.tamu.edu/cse/profiles/zhou-yi.html). I hold my B.S. degree in Computer Science from [Tianjin University](https://www.tju.edu.cn/). 
 
 You can access my Email and [GitHub](https://github.com/Chenghao-Qiu) through the sidebar on the left. Feel free to click on the top menu or [here](https://chenghao-qiu.github.io/cv/) to view my CV.
 
@@ -18,13 +18,17 @@ My current research mainly focuses on the ML and Foundation Models, particularly
 News
 ======
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+  
+  <p style="font-size:14px; font-family:Georgia, serif;">
+    <span style="color: #; font-weight: bold;">Aug, 2025 -</span> 
+    Started my PhD in <a href="https://engineering.tamu.edu/cse" target="_blank">Computer Science</a> at <a href="https://www.tamu.edu" target="_blank">Texas A&M University</a> 🤗.
+  </p>
+  
   <p style="font-size:14px; font-family:Georgia, serif;">
     <span style="color: #; font-weight: bold;">May, 2025 -</span> 
     Our paper "GERM" accepted by ICML 2025! 🎉 Many thanks to all my co-authors.
     <em>(Co-first author)</em>
     <a href="https://arxiv.org/abs/2505.00598" target="_blank">arXiv</a>
-    <!-- <a href="https://github.com/MAGICS-LAB/GERM" target="_blank">Github</a>;
-    <a href="https://huggingface.co/collections/magicslabnu/germ-67f5e49e710956423d549e9b" target="_blank">HuggingFace</a> -->
   </p>
   <!-- 添加更多新闻条目 -->
   <!-- <p style="font-size:14px; font-family:Georgia, serif;">
