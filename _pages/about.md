@@ -20,8 +20,13 @@ News
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
   
   <p style="font-size:14px; font-family:Georgia, serif;">
+    <span style="color: #; font-weight: bold;">Nov, 2025 -</span> 
+    Passed my PhD qualifying exam! 🤠
+  </p>
+
+  <p style="font-size:14px; font-family:Georgia, serif;">
     <span style="color: #; font-weight: bold;">Aug, 2025 -</span> 
-    Started my PhD in <a href="https://engineering.tamu.edu/cse" target="_blank">Computer Science</a> at <a href="https://www.tamu.edu" target="_blank">Texas A&M University</a> 🤗.
+    Started my PhD in <a href="https://engineering.tamu.edu/cse" target="_blank">Computer Science</a> at <a href="https://www.tamu.edu" target="_blank">Texas A&M University</a>. 🤗
   </p>
   
   <p style="font-size:14px; font-family:Georgia, serif;">
