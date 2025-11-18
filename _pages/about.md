@@ -13,7 +13,7 @@ You can access my Email and [GitHub](https://github.com/Chenghao-Qiu) through th
 
 Research
 ======
-My current research mainly focuses on the ML and Foundation Models, particularly LLM in-context learning.
+My current research mainly focuses on the ML and Foundation Models, particularly LLM In-Context Learning(ICL).
 
 News
 ======
