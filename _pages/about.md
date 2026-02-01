@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a PhD student in [Computer Science and Engineering](https://engineering.tamu.edu/cse) at [Texas A&M University](https://www.tamu.edu), advised by [Yi Zhou](https://engineering.tamu.edu/cse/profiles/zhou-yi.html). I hold my B.S. degree in Computer Science from [Tianjin University](https://www.tju.edu.cn/). 
+Welcome! I'm a PhD student in [Computer Science and Engineering](https://engineering.tamu.edu/cse) at [Texas A&M University](https://www.tamu.edu), advised by Dr. [Yi Zhou](https://sites.google.com/site/yizhouhomepage/home). I hold my B.S. degree in Computer Science from [Tianjin University](https://www.tju.edu.cn/). 
 
 You can access my Email and [GitHub](https://github.com/Chenghao-Qiu) through the sidebar on the left. Feel free to click on the top menu or [here](https://chenghao-qiu.github.io/cv/) to view my CV.
 
@@ -44,7 +44,7 @@ News
 Academic Service
 ======
 - **Journal Reviewer**: DMLR
-- **Conference Reviewer**: ICLR 2026
+- **Conference Reviewer**: ICLR 2026, ICML 2026
 
 <!-- A data-driven personal website
 ======
