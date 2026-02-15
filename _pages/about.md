@@ -43,6 +43,8 @@ News
 
 Academic Service
 ======
+- **Program Committee**: 
+  - ES-Reasoning @ ICLR 2026
 - **Journal Reviewer**: DMLR
 - **Conference Reviewer**: ICLR 2026, ICML 2026
 
