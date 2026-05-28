@@ -13,6 +13,9 @@ You can access my Email and [GitHub](https://github.com/Chenghao-Qiu) through th
 
 Research
 ======
+<p>
+Click here to view my <a href="https://chenghao-qiu.github.io/publications/">Selected Publications</a>, or visit my full <a href="https://scholar.google.com/citations?user=ZRkB1E0AAAAJ&hl=en">Google Scholar profile</a>.
+</p>
 My current research mainly focuses on the ML and Foundation Models, particularly LLM In-Context Learning (ICL).
 
 News
