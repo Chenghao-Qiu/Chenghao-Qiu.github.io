@@ -9,7 +9,7 @@ venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2505.10983'
 ---
 <p align="center">
-  <img src="/_publications/genoarmory.jpg" width="85%">
+  <img src="/images/publications/genoarmory.jpg" width="85%">
 </p>
 
 <p align="center">
@@ -19,11 +19,10 @@ paperurl: 'https://arxiv.org/abs/2505.10983'
   <a href="https://github.com/MAGICS-LAB/GenoArmory" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-    <a href="https://huggingface.co/collections/magicslabnu/gfm" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://huggingface.co/collections/magicslabnu/gfm" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Models-fcd022?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face">
   </a>
-    </a>
-    <a href="https://huggingface.co/datasets/magicslabnu/GenoAdv" target="_blank" style="text-decoration: none; border: none;">
+  <a href="https://huggingface.co/datasets/magicslabnu/GenoAdv" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Datasets-fcd022?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face">
   </a>
 </p>
