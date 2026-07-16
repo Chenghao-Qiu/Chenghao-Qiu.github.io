@@ -6,7 +6,6 @@ permalink: /publications/2025-10-11-GenoArmory
 excerpt: 'Haozheng Luo<sup>*</sup>, <strong>Chenghao Qiu</strong><sup>*</sup>, Yimin Wang, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu<sup>†</sup>, Binghui Wang<sup>†</sup>, Yan Chen<sup>†</sup>'
 date: 2025-10-11
 venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2505.10983'
 ---
 <p align="center">
   <img src="/images/publications/genoarmory.jpg" width="85%">

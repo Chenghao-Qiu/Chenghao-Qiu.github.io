@@ -23,20 +23,26 @@ News
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
   
   <p style="font-size:14px; font-family:Georgia, serif;">
+    <span style="color: #; font-weight: bold;">Jul, 2026 -</span> 
+    Our paper "DAPA" accepted by COLM 2026! 🎉
+    <a href="https://openreview.net/forum?id=oyUiJmkD7H" target="_blank">link</a>
+  </p>
+
+  <p style="font-size:14px; font-family:Georgia, serif;">
     <span style="color: #; font-weight: bold;">Nov, 2025 -</span> 
     Passed my PhD qualifying exam! 🤠
   </p>
 
   <p style="font-size:14px; font-family:Georgia, serif;">
     <span style="color: #; font-weight: bold;">Aug, 2025 -</span> 
-    Started my PhD in <a href="https://engineering.tamu.edu/cse" target="_blank">Computer Science</a> at <a href="https://www.tamu.edu" target="_blank">Texas A&M University</a>. 🤗
+    Started my PhD in <a href="https://engineering.tamu.edu/cse" target="_blank">Computer Science</a> at <a href="https://www.tamu.edu" target="_blank">Texas A&M University</a>. 🤠
   </p>
   
   <p style="font-size:14px; font-family:Georgia, serif;">
     <span style="color: #; font-weight: bold;">May, 2025 -</span> 
     Our paper "GERM" accepted by ICML 2025! 🎉 Many thanks to all my co-authors.
     <em>(Co-first author)</em>
-    <a href="https://arxiv.org/abs/2505.00598" target="_blank">arXiv</a>
+    <a href="https://openreview.net/forum?id=oyUiJmkD7H" target="_blank">link</a>
   </p>
   <!-- 添加更多新闻条目 -->
   <!-- <p style="font-size:14px; font-family:Georgia, serif;">
