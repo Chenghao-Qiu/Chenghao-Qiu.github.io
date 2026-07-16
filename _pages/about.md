@@ -25,7 +25,7 @@ News
   <p style="font-size:14px; font-family:Georgia, serif;">
     <span style="color: #; font-weight: bold;">Jul, 2026 -</span> 
     Our paper "DAPA" accepted by COLM 2026! 🎉
-    <a href="https://openreview.net/forum?id=oyUiJmkD7H" target="_blank">link</a>
+    <a href="https://openreview.net/forum?id=6EJ27eMSBB" target="_blank">link</a>
   </p>
 
   <p style="font-size:14px; font-family:Georgia, serif;">
