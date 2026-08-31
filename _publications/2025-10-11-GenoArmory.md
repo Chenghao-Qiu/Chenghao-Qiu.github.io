@@ -3,7 +3,7 @@ title: "GenoArmory: A Unified Evaluation Framework for Adversarial Attacks on Ge
 collection: publications
 category: preprints
 permalink: /publications/2025-10-11-GenoArmory
-excerpt: 'Haozheng Luo<sup>*</sup>, <strong>Chenghao Qiu</strong><sup>*</sup>, Yimin Wang, Shang Wu, Jiahao Yu, Zhenyu Pan, Weian Mao, Haoyang Fang, Hao Xu, Han Liu<sup>†</sup>, Binghui Wang<sup>†</sup>, Yan Chen<sup>†</sup>'
+excerpt: 'H Luo<sup>*</sup>, <strong>C Qiu</strong><sup>*</sup>, Y Wang, S Wu, J Yu, Z Pan, W Mao, H Fang, H Xu, H Liu<sup>†</sup>, B Wang<sup>†</sup>, Y Chen<sup>†</sup>'
 date: 2025-10-11
 venue: 'arXiv preprint'
 ---

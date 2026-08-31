@@ -7,53 +7,54 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Chenghao Qiu (邱成浩 ,pronounced as chan-how chew). I'm a PhD student in [Computer Science and Engineering](https://engineering.tamu.edu/cse) at [Texas A&M University](https://www.tamu.edu), advised by Dr. [Yi Zhou](https://sites.google.com/site/yizhouhomepage/home). I hold my B.S. degree in Computer Science from [Tianjin University](https://www.tju.edu.cn/).
+Hi! My name is Chenghao Qiu (邱成浩, pronounced as chan-how chew). I'm a second-year PhD student in Computer Science at [Texas A&M University](https://www.tamu.edu), advised by Dr. [Yi Zhou](https://sites.google.com/site/yizhouhomepage/home). I hold my B.S. degree in Computer Science from [Tianjin University](https://en.tju.edu.cn/).
 
-You can access my Email and [GitHub](https://github.com/Chenghao-Qiu) through the sidebar on the left. Feel free to click on the top menu or [here](https://chenghao-qiu.github.io/cv/) to view my CV.
+My Email and other contact info are available in the sidebar. Click [here](https://chenghao-qiu.github.io/cv/) to view my CV.
 
 Research
 ======
 <p>
 Click here to view my <a href="https://chenghao-qiu.github.io/publications/">Selected Publications</a>, or visit my full <a href="https://scholar.google.com/citations?user=ZRkB1E0AAAAJ&hl=en">Google Scholar profile</a>.
 </p>
-My current research mainly focuses on the ML and Foundation Models, particularly LLM In-Context Learning (ICL).
+My current research mainly focuses on the ML and Foundation Models, particularly LLM In-Context Learning (ICL). I also work on efficient and robust analog neural networks.
+
+<span style="color: #c0392b;">If you're interested in collaborating or just want to chat about research, feel free to email me!</span>
 
 News
 ======
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
   
-  <p style="font-size:14px; font-family:Georgia, serif;">
+  <p style="font-size:14px; margin: 0 0 0.5em 0;">
     <span style="color: #; font-weight: bold;">Jul, 2026 -</span> 
     Our paper "DAPA" accepted by COLM 2026! 🎉
     <a href="https://openreview.net/forum?id=6EJ27eMSBB" target="_blank">link</a>
   </p>
 
-  <p style="font-size:14px; font-family:Georgia, serif;">
+  <p style="font-size:14px; margin: 0 0 0.5em 0;">
     <span style="color: #; font-weight: bold;">Nov, 2025 -</span> 
     Passed my PhD qualifying exam! 🤠
   </p>
 
-  <p style="font-size:14px; font-family:Georgia, serif;">
+  <p style="font-size:14px; margin: 0 0 0.5em 0;">
     <span style="color: #; font-weight: bold;">Aug, 2025 -</span> 
     Started my PhD in <a href="https://engineering.tamu.edu/cse" target="_blank">Computer Science</a> at <a href="https://www.tamu.edu" target="_blank">Texas A&M University</a>. 🤠
   </p>
   
-  <p style="font-size:14px; font-family:Georgia, serif;">
+  <p style="font-size:14px; margin: 0 0 0.5em 0;">
     <span style="color: #; font-weight: bold;">May, 2025 -</span> 
     Our paper "GERM" accepted by ICML 2025! 🎉 Many thanks to all my co-authors.
     <em>(Co-first author)</em>
     <a href="https://openreview.net/forum?id=oyUiJmkD7H" target="_blank">link</a>
   </p>
   <!-- 添加更多新闻条目 -->
-  <!-- <p style="font-size:14px; font-family:Georgia, serif;">
+  <!-- <p style="font-size:14px; margin: 0 0 0.5em 0;">
     Another news item here...
   </p> -->
 </div>
 
 Academic Service
 ======
-- **Program Committee**: 
-  - ES-Reasoning @ ICLR 2026
+- **Area Chair**: ES-Reasoning @ ICLR 2026
 - **Journal Reviewer**: DMLR
 - **Conference Reviewer**: ICLR 2026, ICML 2026, NIPS 2026
 

@@ -42,9 +42,30 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  font-size: $type-size-4;
+  font-weight: bold;
 
   a + a {
     opacity: 0.5;
+  }
+}
+
+.archive__item-venue {
+  margin: 0.2em 0;
+  font-size: $type-size-5;
+  // font-weight: bold;
+  color: $text-color;
+}
+
+.archive__item-authors {
+  margin-top: 0;
+  margin-bottom: 0.75em;
+  font-size: $type-size-6;
+  line-height: 1.5;
+  color: $gray;
+
+  strong {
+    color: $text-color;
   }
 }
 
