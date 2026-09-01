@@ -6,6 +6,8 @@ permalink: /publications/2025-10-11-GenoArmory
 excerpt: 'H Luo<sup>*</sup>, <strong>C Qiu</strong><sup>*</sup>, Y Wang, S Wu, J Yu, Z Pan, W Mao, H Fang, H Xu, H Liu<sup>†</sup>, B Wang<sup>†</sup>, Y Chen<sup>†</sup>'
 date: 2025-10-11
 venue: 'arXiv preprint'
+header:
+  teaser: publications/genoarmory.jpg
 ---
 <p align="center">
   <img src="/images/publications/genoarmory.jpg" width="85%">

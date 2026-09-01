@@ -105,6 +105,52 @@
   }
 }
 
+/*
+   Publication list item with a small left-side preview image
+   ========================================================================== */
+
+.archive__item--pub {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25em;
+
+  .archive__item-teaser--pub {
+    flex: 0 0 200px;
+    width: 200px;
+    height: 140px;
+    margin-top: 0.3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: $border-radius;
+    background: $code-background-color;
+
+    img {
+      display: block;
+      width: auto;
+      height: auto;
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+  }
+
+  .archive__item-body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  @media screen and (max-width: 600px) {
+    flex-direction: column;
+
+    .archive__item-teaser--pub {
+      width: 100%;
+      flex-basis: auto;
+    }
+  }
+}
+
 
 /*
    List view
